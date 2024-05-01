@@ -44,7 +44,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: https://ad3ngineer.github.io/SolidCobra/
     runs-on: ubuntu-latest
     needs: build
     steps:
