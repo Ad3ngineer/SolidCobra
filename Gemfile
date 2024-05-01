@@ -2,7 +2,8 @@
 
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.4"  # Example: Updates to latest 4.4.x version
+gem "jekyll" 
+
 
 # Add any other dependencies your project requires below 
 
